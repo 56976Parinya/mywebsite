@@ -1,6 +1,3 @@
-
-Kanyawee
-Kanyawee Chaiyasit
 <html>
   <head>
     <title>ตารางของฉัน</title>
